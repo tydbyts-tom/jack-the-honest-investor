@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-11",
+  "picks": [
+    {"symbol": "SMH", "weight_pct": 22},
+    {"symbol": "XLK", "weight_pct": 18},
+    {"symbol": "QQQ", "weight_pct": 15},
+    {"symbol": "XLF", "weight_pct": 12},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "XLV", "weight_pct": 8}
+  ],
+  "cash_pct": 15,
+  "rationale": "Opening gun favors AI infrastructure (SMH/XLK/QQQ) with financials for breadth; GLD + XLV + 15% cash are the shock absorbers—win the season, not the first week’s FOMO."
+}

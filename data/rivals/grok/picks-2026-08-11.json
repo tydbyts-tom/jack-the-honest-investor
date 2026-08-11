@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-11",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 30},
+    {"symbol": "SMH", "weight_pct": 20},
+    {"symbol": "XLK", "weight_pct": 15},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "XLF", "weight_pct": 10},
+    {"symbol": "IWM", "weight_pct": 5}
+  ],
+  "cash_pct": 10,
+  "rationale": "Preseason opener: lean into AI/semis leadership via QQQ+SMH+XLK, keep GLD as a volatility hedge, sprinkle XLF/IWM for breadth, and hold 10% dry powder for the real kickoff."
+}
