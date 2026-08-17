@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-17",
+  "picks": [
+    {"symbol": "SMH", "weight_pct": 25},
+    {"symbol": "QQQ", "weight_pct": 18},
+    {"symbol": "XLF", "weight_pct": 12},
+    {"symbol": "XLV", "weight_pct": 12},
+    {"symbol": "XLE", "weight_pct": 10},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "EEM", "weight_pct": 5}
+  ],
+  "cash_pct": 8,
+  "rationale": "Moonshot concentrated in semis (SMH) with QQQ as clean beta; funding the rest via a regime barbell—XLF/XLE for cyclical pulse, XLV+GLD+cash for drawdowns, and a thin EEM sleeve the pack is ignoring."
+}

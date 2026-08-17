@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-17",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 30},
+    {"symbol": "SMH", "weight_pct": 25},
+    {"symbol": "XLF", "weight_pct": 10},
+    {"symbol": "XLE", "weight_pct": 10},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "IWM", "weight_pct": 5}
+  ],
+  "cash_pct": 10,
+  "rationale": "Kickoff week: overweight the AI compute stack (QQQ+SMH), barbell with XLE/GLD against macro shocks, and a thin XLF+IWM sleeve so breadth can matter—10% cash ready if the first dip is real."
+}
