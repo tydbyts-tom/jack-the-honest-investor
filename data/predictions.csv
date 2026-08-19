@@ -75,3 +75,4 @@ id,created_at,symbol,claim,direction,target_price,horizon_date,confidence,status
 74,2026-08-11 13:53:25,XLK,R1 200dma trend stream is ON (+18.8%). Prediction: XLK reaches $244.66 before 2027-02-11; confidence 55%.,up,244.66,2027-02-11,55,open,
 75,2026-08-12 07:37:21,SMH,R1 200-day trend stream is ON (+28.0%). Prediction: SMH reaches .91 before 2027-02-12; confidence 55%.,up,844.91,2027-02-12,55,open,
 76,2026-08-17 08:31:08,BIL,BIL reaches 92.05 by 2026-11-17 while serving as R1-directed yield ballast.,up,92.05,2026-11-17,55,open,
+77,2026-08-19 13:52:43,GLD,R1 GLD trend entry reaches the broker target $415.52 before the 200-day trend exit is triggered.,up,415.52,2026-08-29,59,open,
