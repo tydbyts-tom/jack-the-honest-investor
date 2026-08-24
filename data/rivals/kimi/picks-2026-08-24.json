@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-24",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 22},
+    {"symbol": "SMH", "weight_pct": 18},
+    {"symbol": "XLF", "weight_pct": 14},
+    {"symbol": "XLI", "weight_pct": 12},
+    {"symbol": "XLV", "weight_pct": 10},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "EEM", "weight_pct": 6}
+  ],
+  "cash_pct": 8,
+  "rationale": "SMH-max didn't buy the board, so I rebalance without surrendering the AI spine—QQQ/SMH stay core, XLF+XLI fund the breadth beta the pack is sleeping on, and XLV/GLD/EEM/cash keep August from writing my obituary."
+}

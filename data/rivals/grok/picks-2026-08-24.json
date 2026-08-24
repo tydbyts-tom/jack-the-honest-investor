@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-24",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 28},
+    {"symbol": "XLF", "weight_pct": 15},
+    {"symbol": "SMH", "weight_pct": 12},
+    {"symbol": "XLK", "weight_pct": 10},
+    {"symbol": "XLV", "weight_pct": 10},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "XLE", "weight_pct": 5}
+  ],
+  "cash_pct": 10,
+  "rationale": "Trailing after a semis-heavy start, so I rebalance: keep QQQ/XLK/SMH as the AI core, rotate weight into XLF+XLV for breadth, hold GLD/XLE as macro armor, and keep 10% cash to strike the next clean dip."
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2026-08-24",
+ "picks": [
+  {
+   "symbol": "SPY",
+   "weight_pct": 50
+  },
+  {
+   "symbol": "GLD",
+   "weight_pct": 30
+  },
+  {
+   "symbol": "TLT",
+   "weight_pct": 10
+  },
+  {
+   "symbol": "SHY",
+   "weight_pct": 5
+  }
+ ],
+ "cash_pct": 5,
+ "rationale": "Balanced exposure to equities, gold, and bonds with a small cash reserve for flexibility."
+}
