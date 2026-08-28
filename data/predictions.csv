@@ -80,5 +80,5 @@ id,created_at,symbol,claim,direction,target_price,horizon_date,confidence,status
 79,2026-08-20 07:38:20,BTC-USD,"Validated R1 BTC-USD trend, entered at ,201.60 while above 200dma ,965.91, reaches ,672.98 before a close below its 200dma rule exit.",up,75672.98,2026-11-18,55,hit,2026-08-21 07:36:28
 80,2026-08-20 11:04:56,GLD,"Validated R1 GLD trend, entered at .79875 while above its .18 200dma, reaches .98 before a close below the trend-rule exit.",up,414.98,2026-09-04,55,hit,2026-08-20 13:09:06
 81,2026-08-20 13:53:32,GLD,Validated R1 GLD trend re-entry at $415.52 while above its $413.19 200dma reaches $420.06 before the trend-rule exit.,up,420.06,2026-09-04,55,hit,2026-08-21 13:32:28
-82,2026-08-21 07:41:35,GLD,Validated R1 GLD trend re-entry at 420.76 while above its 413.44 200dma reaches 432.31 before the trend-rule exit.,up,432.31,2026-09-04,55,open,
+82,2026-08-21 07:41:35,GLD,Validated R1 GLD trend re-entry at 420.76 while above its 413.44 200dma reaches 432.31 before the trend-rule exit.,up,432.31,2026-09-04,55,miss,2026-08-28 10:08:18
 83,2026-08-21 07:41:35,BTC-USD,Validated R1 BTC trend re-entry at 77078.70 while above its 68966.72 200dma reaches 92948.87 before the trend-rule exit.,up,92948.87,2026-11-21,55,open,
