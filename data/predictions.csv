@@ -82,3 +82,8 @@ id,created_at,symbol,claim,direction,target_price,horizon_date,confidence,status
 81,2026-08-20 13:53:32,GLD,Validated R1 GLD trend re-entry at $415.52 while above its $413.19 200dma reaches $420.06 before the trend-rule exit.,up,420.06,2026-09-04,55,hit,2026-08-21 13:32:28
 82,2026-08-21 07:41:35,GLD,Validated R1 GLD trend re-entry at 420.76 while above its 413.44 200dma reaches 432.31 before the trend-rule exit.,up,432.31,2026-09-04,55,miss,2026-08-28 10:08:18
 83,2026-08-21 07:41:35,BTC-USD,Validated R1 BTC trend re-entry at 77078.70 while above its 68966.72 200dma reaches 92948.87 before the trend-rule exit.,up,92948.87,2026-11-21,55,open,
+84,2026-08-29 18:02:05,ETH-USD,WATCH only: ETH reaches 2703.00 within 30 days while no approved live-capital rule exists.,up,2703.0,2026-09-28,55,open,
+85,2026-08-29 18:02:05,SOL-USD,WATCH only: SOL reaches 116.27 within 30 days while no approved live-capital rule exists.,up,116.27,2026-09-28,55,open,
+86,2026-08-29 18:02:05,LINK-USD,WATCH only: LINK reaches 12.56 within 30 days while no approved live-capital rule exists.,up,12.56,2026-09-28,55,open,
+87,2026-08-29 18:02:05,AVAX-USD,PASS: AVAX remains below its 200-day average through 2026-09-28.,down,8.13,2026-09-28,55,open,
+88,2026-08-29 18:02:05,DOGE-USD,PASS: DOGE remains below its 200-day average through 2026-09-28.,down,0.08904,2026-09-28,55,open,
