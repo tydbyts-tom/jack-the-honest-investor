@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-31",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 32},
+    {"symbol": "SMH", "weight_pct": 18},
+    {"symbol": "XLK", "weight_pct": 15},
+    {"symbol": "EEM", "weight_pct": 12},
+    {"symbol": "GLD", "weight_pct": 10},
+    {"symbol": "XLE", "weight_pct": 8}
+  ],
+  "cash_pct": 5,
+  "rationale": "Trailing the board means no more polite hedges: press the actual leaders (QQQ/XLK/SMH), ride EEM's global beta, scoop GLD after the weekly fade, keep a thin XLE sleeve—and cut cash to 5%. Catch-up mode, not museum mode."
+}

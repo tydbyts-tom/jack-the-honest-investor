@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-31",
+  "picks": [
+    {"symbol": "QQQ", "weight_pct": 22},
+    {"symbol": "SMH", "weight_pct": 16},
+    {"symbol": "XLV", "weight_pct": 14},
+    {"symbol": "GLD", "weight_pct": 12},
+    {"symbol": "XLF", "weight_pct": 10},
+    {"symbol": "XLP", "weight_pct": 10},
+    {"symbol": "XLI", "weight_pct": 8}
+  ],
+  "cash_pct": 8,
+  "rationale": "Down 1.6% into September, I keep the Moonshot spine (QQQ/SMH) but refuse another all-offense week—XLV+XLP+GLD armor the calendar, XLF/XLI fund quiet breadth, and cash waits for the first clean post-Labor Day dip."
+}

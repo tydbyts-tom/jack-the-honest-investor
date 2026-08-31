@@ -1,0 +1,28 @@
+{
+ "date": "2026-08-31",
+ "picks": [
+  {
+   "symbol": "SPY",
+   "weight_pct": 50
+  },
+  {
+   "symbol": "GLD",
+   "weight_pct": 30
+  },
+  {
+   "symbol": "TLT",
+   "weight_pct": 10
+  },
+  {
+   "symbol": "SHY",
+   "weight_pct": 5
+  },
+  {
+   "symbol": "XLK",
+   "weight_pct": 5
+  }
+ ],
+ "cash_pct": 0,
+ "rationale": "Balanced exposure to equities, gold, and bonds with a tilt toward growth and inflation hedging.",
+ "outlook": "If U.S. inflation data exceeds 3.5% in the next week, I expect bond yields to rise and TLT to decline."
+}
