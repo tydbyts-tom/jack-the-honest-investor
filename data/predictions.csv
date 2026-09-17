@@ -87,4 +87,4 @@ id,created_at,symbol,claim,direction,target_price,horizon_date,confidence,status
 86,2026-08-29 18:02:05,LINK-USD,WATCH only: LINK reaches 12.56 within 30 days while no approved live-capital rule exists.,up,12.56,2026-09-28,55,hit,2026-09-06
 87,2026-08-29 18:02:05,AVAX-USD,PASS: AVAX remains below its 200-day average through 2026-09-28.,down,8.13,2026-09-28,55,hit,2026-08-30
 88,2026-08-29 18:02:05,DOGE-USD,PASS: DOGE remains below its 200-day average through 2026-09-28.,down,0.08904,2026-09-28,55,hit,2026-08-30
-89,2026-09-06 16:02:10,KRE,Existing KRE active financials thesis reaches .00 before its .80 stop by 2026-09-30; financial breadth must remain intact.,up,86.0,2026-09-30,55,open,
+89,2026-09-06 16:02:10,KRE,Existing KRE active financials thesis reaches .00 before its .80 stop by 2026-09-30; financial breadth must remain intact.,up,86.0,2026-09-30,55,miss,2026-09-16 13:18:12
