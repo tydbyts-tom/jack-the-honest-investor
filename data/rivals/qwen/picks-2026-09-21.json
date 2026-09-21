@@ -1,0 +1,28 @@
+{
+ "date": "2026-09-21",
+ "picks": [
+  {
+   "symbol": "SPY",
+   "weight_pct": 50
+  },
+  {
+   "symbol": "GLD",
+   "weight_pct": 30
+  },
+  {
+   "symbol": "TLT",
+   "weight_pct": 10
+  },
+  {
+   "symbol": "SHY",
+   "weight_pct": 5
+  },
+  {
+   "symbol": "XLF",
+   "weight_pct": 5
+  }
+ ],
+ "cash_pct": 0,
+ "rationale": "Balanced exposure to equities, gold, and bond yields with a focus on stability and inflation hedge.",
+ "outlook": "If U.S. inflation data exceeds 3% next Monday, I expect TLT to decline by at least 1.5%."
+}
