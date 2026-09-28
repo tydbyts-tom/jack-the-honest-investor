@@ -1,0 +1,28 @@
+{
+ "date": "2026-09-28",
+ "picks": [
+  {
+   "symbol": "SPY",
+   "weight_pct": 50
+  },
+  {
+   "symbol": "GLD",
+   "weight_pct": 30
+  },
+  {
+   "symbol": "TLT",
+   "weight_pct": 10
+  },
+  {
+   "symbol": "SHY",
+   "weight_pct": 5
+  },
+  {
+   "symbol": "QQQ",
+   "weight_pct": 5
+  }
+ ],
+ "cash_pct": 0,
+ "rationale": "Balanced exposure to equities, gold, and bonds to hedge against volatility and inflation.",
+ "outlook": "If inflation data exceeds 3% next Monday, I expect the TLT to outperform by at least 1.5%."
+}
